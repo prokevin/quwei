@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Cookies2Json">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/Cookies2Json.jar!/" />
+    </SOURCES>
+  </library>
+</component>
